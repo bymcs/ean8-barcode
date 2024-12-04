@@ -13,7 +13,7 @@ This project is a Flask API that generates EAN-8 barcodes in PNG format.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/bymcs/ean8-barcode.git
     cd your-repo-name
     ```
 
