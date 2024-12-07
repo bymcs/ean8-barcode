@@ -32,6 +32,8 @@ This project is a Flask API that generates EAN-8 barcodes in PNG format.
 2. Access the API at:
     - `http://localhost:2222/ean8/<code>`
     - `http://<your-ip>:2222/ean8/<code>`
+    - `http://localhost:2222/ean8/base64/<code>`
+    - `http://<your-ip>:2222/ean8/base64/<code>`
 
 ## Example
 
